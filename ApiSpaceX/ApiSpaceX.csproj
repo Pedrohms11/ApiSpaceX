@@ -11,9 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="Documentation\" />
-    <Folder Include="Services\" />
     <Folder Include="Repositories\" />
   </ItemGroup>
 
