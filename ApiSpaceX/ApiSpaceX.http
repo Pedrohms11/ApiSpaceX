@@ -1,0 +1,6 @@
+@ApiSpaceX_HostAddress = http://localhost:5236
+
+GET {{ApiSpaceX_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
